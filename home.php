@@ -125,6 +125,7 @@ body
                     echo '<a class="btn btn-xl js-scroll-trigger" href="UserPortfolio.php">Profile</a>';
                     echo '<a href="logout.php"><button class="btn my-2 my-sm-0 styling" name="logout">Logout</button></a>';  
                     echo '<a class="btn btn-xl js-scroll-trigger" href="ModifyPortfolio.php">Modify</a>';                       
+                    echo '<a class="btn btn-xl js-scroll-trigger" href="Remove.php">Delete</a>';                       
                     }
                     ?>
                 </div>
